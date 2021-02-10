@@ -2,7 +2,7 @@
 
 ![Continuous Integration](https://github.com/0x46616c6b/etherpad-lite-client/workflows/Continuous%20Integration/badge.svg) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/0x46616c6b/etherpad-lite-client/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/0x46616c6b/etherpad-lite-client/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/0x46616c6b/etherpad-lite-client/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/0x46616c6b/etherpad-lite-client/?branch=master) [![Latest Stable Version](https://poser.pugx.org/0x46616c6b/etherpad-lite-client/v/stable.png)](https://packagist.org/packages/0x46616c6b/etherpad-lite-client) [![License](https://poser.pugx.org/0x46616c6b/etherpad-lite-client/license.png)](https://packagist.org/packages/0x46616c6b/etherpad-lite-client)
 
-This package provides an easy access to [Etherpad Lite](https://github.com/ether/etherpad-lite) throw there built-in [HTTP API](http://etherpad.org/doc/v1.2.11/#index_http_api).
+This package provides an easy access to [Etherpad Lite](https://github.com/ether/etherpad-lite) through their built-in [HTTP API](http://etherpad.org/doc/v1.2.11/#index_http_api).
 
 **Supported API Version: 1.3.0 (Release: 1.7.5)**
 
